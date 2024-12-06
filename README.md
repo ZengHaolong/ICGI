@@ -9,10 +9,10 @@ This is the official implementation of the paper "Cancer Gene Identification thr
 
 🚀 Key points:
 
-- The study introduces a novel framework ICGI for cancer gene identification which exploits the emergent capabilities of the LLM and the advantages of causal inference.
+- We propose a novel framework ICGI for cancer gene identification which leverages the emergent capabilities of the LLM and the advantages of causal inference.
 
-- ICGI exhibits superior performance in identifying cancer genes from multi-omics information, distinguishing between cancer and normal samples, and explaining biological mechanisms.
+- Due to causal prompt and causal learning mechanisms, ICGI exhibits superior performance in identifying cancer genes from variations in the genome, transcriptome, and even other omics. Furthermore, it effectively distinguishes between cancer and normal samples and elucidates underlying biological mechanisms.
 
-- The study offers valuable insights into unlocking the potential of LLM for bioinformatics tasks through CoT prompting and the RAG technique. This LLM-aided strategy holds great promise for addressing other complex scientific challenges as well.
+- The study offers valuable insights into harnessing the power of LLMs for bioinformatics tasks through CoT prompting and the RAG technique. This LLM-aided strategy holds great promise for tackling other complex scientific challenges as well.
 
-- A web application has been developed and deployed to facilitate the ease of using the new tool produced by this research.
+- A web application has been developed and deployed to facilitate the ease of using the new causal cancer gene identification tool.
